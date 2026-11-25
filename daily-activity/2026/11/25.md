@@ -1,0 +1,1 @@
+Automated GitHub activity log managed by n8n.
